@@ -13,9 +13,6 @@ While you're at it, you could have a look at some of my Unpolished-University-pr
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I wrote a [blog post](https://www.synthace.com/autosave-with-react-hooks/) which is the #1 Google result for "React (hooks) autosave" and I have no idea how that happened
 
-<br />
-<a href="https://www.buymeacoffee.com/AlbeMoro"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=AlbeMoro&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
-
 <!--
 **AlbertQM/AlbertQM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
