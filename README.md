@@ -1,12 +1,9 @@
+<img alt="A silhouette of a man with a laptop" src="https://github.com/AlbertQM/AlbertQM/assets/33761650/b74a52c8-22a1-42a2-a069-1962239b506d">
+
 ### Hi, I'm [Albert](https://albertqm.github.io/) 👋
 
-🏠 Please make yourself at home.
-
-----
-
-- 📫 How to reach me: [Twitter](https://twitter.com/albe_moro) or [LinkedIn](https://uk.linkedin.com/in/alberto-morabito-299320155)
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I wrote a [blog post](https://www.synthace.com/autosave-with-react-hooks/) which is the #1 Google result for "React (hooks) autosave" and I have no idea how that happened
+- 💬 Ask me about TypeScript, React, CSS, Chrome DevTools and Browser APIs!
+- 📫 Feel free to reach out on [Twitter](https://twitter.com/albe_moro) or [LinkedIn](https://uk.linkedin.com/in/alberto-morabito-299320155)
 
 <!--
 **AlbertQM/AlbertQM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
