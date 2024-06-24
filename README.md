@@ -1,6 +1,6 @@
 <img alt="A silhouette of a man with a laptop" src="https://github.com/AlbertQM/AlbertQM/assets/33761650/b74a52c8-22a1-42a2-a069-1962239b506d">
 
-### Hi, I'm [Albert](https://albertqm.github.io/) 👋
+### Hi, I'm [Albert](https://hey.alberto.omg.lol/) 👋
 
 - 💬 Ask me about TypeScript, React, CSS, Chrome DevTools and Browser APIs!
 - 📫 Feel free to reach out on [Twitter](https://twitter.com/albe_moro) or [LinkedIn](https://uk.linkedin.com/in/alberto-morabito-299320155)
