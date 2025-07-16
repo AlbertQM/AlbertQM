@@ -1,9 +1,9 @@
-<img alt="A silhouette of a man with a laptop" src="https://github.com/AlbertQM/AlbertQM/assets/33761650/b74a52c8-22a1-42a2-a069-1962239b506d">
+<img alt="A custom animation that welcomes you to the website, in the style of the GitHub profile activity" src="https://github.com/user-attachments/assets/f22fc7cd-a4ac-48a9-818e-23cd3cd47222">
 
-### Hi, I'm [Albert](https://hey.alberto.omg.lol/) 👋
+### Hi, I'm [Alberto](https://hey.alberto.omg.lol/) 👋
 
-- 💬 Ask me about TypeScript, React, CSS, Chrome DevTools and Browser APIs!
-- 📫 Feel free to reach out on [Twitter](https://twitter.com/albe_moro) or [LinkedIn](https://uk.linkedin.com/in/alberto-morabito-299320155)
+- 💬 Ask me about React, CSS, Chrome DevTools and Browser APIs!
+- 📫 Feel free to reach out on [LinkedIn](https://uk.linkedin.com/in/alberto-morabito-299320155)
 
 <!--
 **AlbertQM/AlbertQM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
