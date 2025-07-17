@@ -1,4 +1,4 @@
-<img alt="A custom animation that welcomes you to the website, in the style of the GitHub profile activity" src="https://github.com/user-attachments/assets/f22fc7cd-a4ac-48a9-818e-23cd3cd47222">
+<img alt="A custom animation that welcomes you to the website, in the style of the GitHub profile activity" src="https://github.com/user-attachments/assets/720d5ff9-81c7-4602-932e-2096194f7329">
 
 ### Hi, I'm [Alberto](https://hey.alberto.omg.lol/) 👋
 
